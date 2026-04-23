@@ -6,7 +6,6 @@ A collection of applied analytical projects developed during **The Sparks Founda
 These Jupyter Notebooks demonstrate end-to-end data workflows, focusing on extracting actionable business insights and building reliable predictive models using standard industry libraries.
 
 ## Completed Tasks
-*(Note: Update the links/names below to match your exact notebook files)*
 
 * **Task 1: Prediction using Supervised ML**
   * Developed a Simple Linear Regression model to predict a student's percentage based on the number of study hours.
